@@ -34,7 +34,7 @@ Data is collected from several different opensource resources, links are provide
 Data processing is done to processing the segmentaion masks, combine the images from all the different datasets and split the images according the ratio mention in the paper. The data processing notebook in provided in /data/ folder. <br/>
 <br/>
 
-<b>Segmentation split (file names and paths provided in /splits/Segmentaion)</b>
+<b>Segmentation split (file names and paths provided in /splits/Segmentaion)</b><br/>
 <img src="https://github.com/manastahir/Deep-Learning-COVID-19-Features-on-CXR-Using-Limited-Training-Data-Sets/blob/master/splits/Segmentation/table.png">
 
 <b>Classification split (file names and paths provided in /splits/Classification)</b>
