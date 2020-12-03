@@ -14,8 +14,8 @@ extrcacted. The center of the patch has to lie inside the Lung region.The patche
 paper they proposed to use N=100. I ran the experiments on free colab and due to limited resources I had to use N=25. Due to this results were slightly worse than in the paper, but 
 acceptable.
 
-Segmentaion network: DenseNet103
-Classification network: pretrained ResNet18
+Segmentaion network: DenseNet103<br/>
+Classification network: Imagenet pretrained ResNet18
 
 ## Requirements
 ```shell
@@ -39,3 +39,23 @@ Data processing is done to processing the segmentaion masks, combine the images 
 <b>Classification split (file names and paths provided in /splits/Classification)</b>
 <img src="https://github.com/manastahir/Deep-Learning-COVID-19-Features-on-CXR-Using-Limited-Training-Data-Sets/blob/master/splits/Classification/table.png">
 
+## Training
+Modify the hyperparameters in config.ini file.
+
+Trainig the segmentaion network:
+```shell
+python train.py --train 'SEG'
+```
+Gerating the masks:
+```shell
+python generate_masks.py --file '../splits/Classification/combined.csv'
+```
+Trainig the classification network:
+```shell
+python train.py --train 'CLASS'
+```
+
+## Testing
+```shell
+python inference.py --file '../splits/Classification/test.csv'
+```
