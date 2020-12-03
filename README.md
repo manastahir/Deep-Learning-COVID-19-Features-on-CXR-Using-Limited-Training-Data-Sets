@@ -35,7 +35,8 @@ Data processing is done to processing the segmentaion masks, combine the images 
 <br/>
 
 <b>Segmentation split (file names and paths provided in /splits/Segmentaion)</b>
-<img src="https://github.com/manastahir/Deep-Learning-COVID-19-Features-on-CXR-Using-Limited-Training-Data-Sets/blob/master/splits/Segmentation/table.png"><br/>
+<img src="https://github.com/manastahir/Deep-Learning-COVID-19-Features-on-CXR-Using-Limited-Training-Data-Sets/blob/master/splits/Segmentation/table.png">
+
 <b>Classification split (file names and paths provided in /splits/Classification)</b>
 <img src="https://github.com/manastahir/Deep-Learning-COVID-19-Features-on-CXR-Using-Limited-Training-Data-Sets/blob/master/splits/Classification/table.png">
 
