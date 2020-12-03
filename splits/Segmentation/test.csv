@@ -1,0 +1,123 @@
+,filename,image_folder,dataset,condition,mask_folder
+0,JPCLN001.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+1,JPCLN007.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+2,JPCLN009.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+3,JPCLN014.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+4,JPCLN015.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+5,JPCLN023.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+6,JPCLN025.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+7,JPCLN027.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+8,JPCLN032.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+9,JPCLN046.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+10,JPCLN049.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+11,JPCLN053.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+12,JPCLN059.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+13,JPCLN063.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+14,JPCLN066.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+15,JPCLN068.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+16,JPCLN071.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+17,JPCLN074.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+18,JPCLN076.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+19,JPCLN078.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+20,JPCLN092.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+21,JPCLN096.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+22,JPCLN101.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+23,JPCLN103.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+24,JPCLN108.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+25,JPCLN121.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+26,JPCLN128.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+27,JPCLN141.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+28,JPCLN144.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+29,JPCLN149.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+30,JPCLN150.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Nodule,JSRT SCR/SCR/Complete Lung Mask
+31,JPCNN002.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,JSRT SCR/SCR/Complete Lung Mask
+32,JPCNN003.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,JSRT SCR/SCR/Complete Lung Mask
+33,JPCNN004.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,JSRT SCR/SCR/Complete Lung Mask
+34,JPCNN023.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,JSRT SCR/SCR/Complete Lung Mask
+35,JPCNN029.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,JSRT SCR/SCR/Complete Lung Mask
+36,JPCNN033.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,JSRT SCR/SCR/Complete Lung Mask
+37,JPCNN043.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,JSRT SCR/SCR/Complete Lung Mask
+38,JPCNN045.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,JSRT SCR/SCR/Complete Lung Mask
+39,JPCNN058.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,JSRT SCR/SCR/Complete Lung Mask
+40,JPCNN059.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,JSRT SCR/SCR/Complete Lung Mask
+41,JPCNN060.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,JSRT SCR/SCR/Complete Lung Mask
+42,JPCNN077.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,JSRT SCR/SCR/Complete Lung Mask
+43,JPCNN079.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,JSRT SCR/SCR/Complete Lung Mask
+44,JPCNN080.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,JSRT SCR/SCR/Complete Lung Mask
+45,JPCNN082.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,JSRT SCR/SCR/Complete Lung Mask
+46,JPCNN083.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,JSRT SCR/SCR/Complete Lung Mask
+47,JPCNN087.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,JSRT SCR/SCR/Complete Lung Mask
+48,JPCNN089.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,JSRT SCR/SCR/Complete Lung Mask
+49,MCUCXR_0016_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+50,MCUCXR_0021_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+51,MCUCXR_0058_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+52,MCUCXR_0013_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+53,MCUCXR_0085_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+54,MCUCXR_0082_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+55,MCUCXR_0026_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+56,MCUCXR_0054_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+57,MCUCXR_0055_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+58,MCUCXR_0102_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+59,MCUCXR_0083_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+60,MCUCXR_0089_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+61,MCUCXR_0042_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+62,MCUCXR_0101_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+63,MCUCXR_0048_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+64,MCUCXR_0075_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+65,MCUCXR_0096_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+66,MCUCXR_0008_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+67,MCUCXR_0064_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+68,MCUCXR_0059_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+69,MCUCXR_0045_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+70,MCUCXR_0031_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+71,MCUCXR_0030_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+72,MCUCXR_0020_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+73,MCUCXR_0070_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+74,MCUCXR_0056_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+75,MCUCXR_0100_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+76,MCUCXR_0022_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+77,MCUCXR_0003_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+78,MCUCXR_0090_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+79,MCUCXR_0041_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+80,MCUCXR_0011_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+81,MCUCXR_0103_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+82,MCUCXR_0046_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+83,MCUCXR_0049_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+84,MCUCXR_0040_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+85,MCUCXR_0053_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+86,MCUCXR_0052_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+87,MCUCXR_0072_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+88,MCUCXR_0038_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+89,MCUCXR_0062_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+90,MCUCXR_0094_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+91,MCUCXR_0077_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+92,MCUCXR_0006_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+93,MCUCXR_0071_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+94,MCUCXR_0074_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+95,MCUCXR_0081_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+96,MCUCXR_0068_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+97,MCUCXR_0019_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+98,MCUCXR_0047_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+99,MCUCXR_0087_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+100,MCUCXR_0092_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+101,MCUCXR_0084_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+102,MCUCXR_0080_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+103,MCUCXR_0029_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+104,MCUCXR_0063_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+105,MCUCXR_0023_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+106,MCUCXR_0043_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+107,MCUCXR_0017_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+108,MCUCXR_0057_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+109,MCUCXR_0015_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+110,MCUCXR_0091_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+111,MCUCXR_0086_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+112,MCUCXR_0035_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+113,MCUCXR_0079_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+114,MCUCXR_0095_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+115,MCUCXR_0004_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+116,MCUCXR_0002_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+117,MCUCXR_0097_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+118,MCUCXR_0028_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+119,MCUCXR_0027_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+120,MCUCXR_0005_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask
+121,MCUCXR_0024_0.png,Montgomery/CXR,NLM(MG),Normal,Montgomery/Mask/Complete Lung Mask

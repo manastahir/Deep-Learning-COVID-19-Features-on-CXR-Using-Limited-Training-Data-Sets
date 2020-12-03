@@ -1,0 +1,357 @@
+,filename,image_folder,dataset,condition,Normal,Bacterial Pneumonia,Viral Pneumonia,Tb,mask_folder
+0,MCUCXR_0092_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+1,JPCNN028.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+2,JPCNN043.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+3,MCUCXR_0100_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+4,JPCNN062.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+5,JPCNN084.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+6,MCUCXR_0004_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+7,JPCNN060.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+8,MCUCXR_0031_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+9,MCUCXR_0068_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+10,MCUCXR_0026_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+11,MCUCXR_0090_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+12,JPCNN033.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+13,MCUCXR_0075_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+14,MCUCXR_0023_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+15,MCUCXR_0008_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+16,JPCNN088.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+17,MCUCXR_0081_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+18,MCUCXR_0054_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+19,JPCNN059.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+20,MCUCXR_0072_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+21,MCUCXR_0057_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+22,MCUCXR_0059_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+23,JPCNN074.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+24,JPCNN068.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+25,MCUCXR_0005_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+26,JPCNN092.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+27,JPCNN063.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+28,MCUCXR_0089_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+29,JPCNN075.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+30,MCUCXR_0085_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+31,MCUCXR_0040_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+32,MCUCXR_0095_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+33,JPCNN057.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+34,MCUCXR_0079_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+35,JPCNN066.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+36,JPCNN071.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+37,MCUCXR_0006_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+38,MCUCXR_0087_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+39,JPCNN011.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+40,JPCNN093.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+41,JPCNN021.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+42,JPCNN012.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+43,JPCNN047.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+44,MCUCXR_0029_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+45,MCUCXR_0094_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+46,JPCNN037.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+47,JPCNN006.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+48,MCUCXR_0046_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+49,JPCNN086.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+50,JPCNN069.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+51,MCUCXR_0074_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+52,MCUCXR_0101_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+53,JPCNN001.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+54,JPCNN080.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+55,JPCNN045.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+56,MCUCXR_0103_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+57,16745_3_1.png,Covid-github/images,Github,Normal,1,0,0,0,All masks
+58,MCUCXR_0052_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+59,MCUCXR_0001_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+60,JPCNN014.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+61,JPCNN008.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+62,MCUCXR_0053_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+63,JPCNN078.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+64,JPCNN016.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+65,JPCNN082.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+66,JPCNN081.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+67,MCUCXR_0086_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+68,MCUCXR_0011_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+69,MCUCXR_0083_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+70,JPCNN017.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+71,MCUCXR_0015_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+72,JPCNN058.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+73,JPCNN070.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+74,JPCNN089.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+75,JPCNN050.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+76,MCUCXR_0003_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+77,JPCNN061.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+78,MCUCXR_0080_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+79,JPCNN004.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+80,JPCNN003.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+81,JPCNN056.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+82,JPCNN054.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+83,MCUCXR_0030_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+84,MCUCXR_0013_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+85,MCUCXR_0049_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+86,MCUCXR_0028_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+87,JPCNN005.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+88,JPCNN085.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+89,MCUCXR_0024_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+90,JPCNN040.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+91,JPCNN046.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+92,JPCNN024.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+93,JPCNN049.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+94,MCUCXR_0064_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+95,MCUCXR_0041_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+96,MCUCXR_0035_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+97,MCUCXR_0071_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+98,MCUCXR_0060_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+99,JPCNN031.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+100,JPCNN065.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+101,MCUCXR_0058_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+102,JPCNN042.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+103,JPCNN013.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+104,JPCNN083.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+105,JPCNN038.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+106,JPCNN076.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+107,MCUCXR_0048_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+108,MCUCXR_0019_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+109,JPCNN035.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+110,JPCNN079.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+111,JPCNN064.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+112,MCUCXR_0099_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+113,MCUCXR_0055_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+114,JPCNN010.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+115,JPCNN018.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+116,MCUCXR_0044_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+117,F051E018-DAD1-4506-AD43-BE4CA29E960B.jpeg,Covid-github/images,Github,Normal,1,0,0,0,All masks
+118,MCUCXR_0038_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+119,JPCNN009.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+120,MCUCXR_0061_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+121,MCUCXR_0020_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+122,JPCNN041.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+123,MCUCXR_0062_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+124,MCUCXR_0108_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+125,MCUCXR_0195_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+126,MCUCXR_0258_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+127,MCUCXR_0141_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+128,MCUCXR_0331_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+129,MCUCXR_0243_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+130,MCUCXR_0144_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+131,MCUCXR_0188_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+132,MCUCXR_0383_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+133,MCUCXR_0338_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+134,MCUCXR_0213_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+135,MCUCXR_0311_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+136,MCUCXR_0253_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+137,MCUCXR_0375_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+138,MCUCXR_0196_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+139,MCUCXR_0162_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+140,MCUCXR_0282_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+141,MCUCXR_0203_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+142,MCUCXR_0117_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+143,MCUCXR_0266_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+144,MCUCXR_0348_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+145,MCUCXR_0254_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+146,MCUCXR_0275_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+147,MCUCXR_0399_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+148,MCUCXR_0170_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+149,MCUCXR_0140_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+150,MCUCXR_0354_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+151,MCUCXR_0194_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+152,MCUCXR_0313_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+153,MCUCXR_0369_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+154,MCUCXR_0228_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+155,MCUCXR_0113_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+156,MCUCXR_0218_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+157,MCUCXR_0223_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+158,MCUCXR_0362_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+159,MCUCXR_0294_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+160,MCUCXR_0126_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+161,MCUCXR_0173_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+162,MCUCXR_0142_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+163,MCUCXR_0334_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+164,legionella-pneumonia-1.png,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+165,pneumocystis-jirovecii-pneumonia-3-3.jpg,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+166,person978_bacteria_2904.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+167,pneumocystis-pneumonia-1.jpg,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+168,person997_bacteria_2926.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+169,streptococcus-pneumoniae-pneumonia-temporal-evolution-1-day2.jpg,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+170,person1272_bacteria_3232.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+171,person1544_bacteria_4038.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+172,person71_bacteria_349.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+173,streptococcus-pneumoniae-pneumonia-temporal-evolution-1-day1.jpg,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+174,cavitating-pneumonia-4-day28-PA.png,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+175,pneumocystis-pneumonia-2-PA.png,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+176,cavitating-pneumonia-4-day0-PA.jpg,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+177,pneumococcal-pneumonia-day7.jpg,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+178,person424_bacteria_1859.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+179,person1142_bacteria_3086.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+180,person1441_bacteria_3724.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+181,person578_bacteria_2379.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+182,person531_bacteria_2240.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+183,pneumocystis-jirovecii-pneumonia-2.jpg,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+184,X-ray_of_cyst_in_pneumocystis_pneumonia_1.jpg,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+185,streptococcus-pneumoniae-pneumonia-temporal-evolution-1-day0.jpg,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+186,person354_bacteria_1635.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+187,person1409_bacteria_3583.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+188,chlamydia-pneumonia-PA.png,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+189,pneumocystis-jiroveci-pneumonia-2.png,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+190,pneumocystis-jirovecii-pneumonia-3-2.jpg,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+191,person258_bacteria_1215.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+192,person1176_bacteria_3124.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+193,person809_bacteria_2718.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+194,pneumococcal-pneumonia-day0.jpg,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+195,person59_bacteria_283.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+196,person539_bacteria_2270.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+197,streptococcus-pneumoniae-pneumonia-temporal-evolution-1-day3.jpg,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+198,parapneumonic-effusion-1-PA.png,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+199,klebsiella-pneumonia-1.jpg,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+200,streptococcus-pneumoniae-pneumonia-temporal-evolution-1-day1.jpg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+201,streptococcus-pneumoniae-pneumonia-1.jpg,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+202,person531_bacteria_2235.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+203,person44_bacteria_219.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+204,SARS-10.1148rg.242035193-g04mr34g07a-Fig7a-day5.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+205,wong-0005.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+206,acute-respiratory-distress-syndrome-ards-1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+207,SARS-10.1148rg.242035193-g04mr34g04a-Fig4a-day7.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+208,wong-0000.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+209,SARS-10.1148rg.242035193-g04mr34g09a-Fig9a-day17.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+210,wong-0004.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+211,SARS-10.1148rg.242035193-g04mr34g0-Fig8b-day5.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+212,SARS-10.1148rg.242035193-g04mr34g09b-Fig9b-day19.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+213,SARS-10.1148rg.242035193-g04mr34g07b-Fig7b-day12.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+214,wong-0003.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+215,ards-secondary-to-tiger-snake-bite.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+216,SARS-10.1148rg.242035193-g04mr34g05x-Fig5-day9.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+217,acute-respiratory-distress-syndrome-ards.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+218,covid-19-pneumonia-38-pa.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+219,nejmoa2001191_f4.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+220,CD50BA96-6982-4C80-AE7B-5F67ACDBFA56.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+221,1-s2.0-S1684118220300682-main.pdf-002-a2.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+222,16654_2_1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+223,F2DE909F-E19C-4900-92F5-8F435B031AC6.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+224,16660_1_1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+225,nejmoa2001191_f5-PA.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+226,16724_1_1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+227,jkms-35-e79-g001-l-a.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+228,radiol.2020201160.fig3c.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+229,16744_1_1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+230,ryct.2020200034.fig2.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+231,covid-19-pneumonia-progression-and-regression-day28.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+232,9fdd3c3032296fd04d2cad5d9070d4_jumbo.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+233,auntminnie-c-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+234,kjr-21-e25-g001-l-a.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+235,16663_1_1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+236,radiol.2020201160.fig2a.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+237,16708_5_1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+238,03BF7561-A9BA-4C3C-B8A0-D3E585F73F3C.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+239,4e43e48d52c9e2d4c6c1fb9bc1544f_jumbo.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+240,01E392EE-69F9-4E33-BFCE-E5C968654078.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+241,radiol.2020201160.fig3d.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+242,figure1-5e75d0940b71e1b702629659-98-right.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+243,5CBC2E94-D358-401E-8928-965CCD965C5C.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+244,16674_1_1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+245,16747_1_1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+246,ryct.2020200028.fig1a.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+247,covid-19-pneumonia-24-day6.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+248,radiol.2020201160.fig6b.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+249,16664_1_1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+250,16706_1_1.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+251,covid-19-pneumonia-15-PA.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+252,2C10A413-AABE-4807-8CCE-6A2025594067.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+253,covid-19-pneumonia-93.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+254,post-intubuation-pneumomediastium-and-pneumothorax-background-covid-19-pneumonia-day7.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+255,1.CXRCTThoraximagesofCOVID-19fromSingapore.pdf-000-fig1a.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+256,covid-19-pneumonia-30-PA.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+257,auntminnie-a-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+258,covid-19-pneumonia-101.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+259,covid-19-pneumonia-progression-and-regression-day1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+260,nejmoa2001191_f3-PA.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+261,covid-19-pneumonia-58-day-10.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+262,1-s2.0-S1684118220300608-main.pdf-001.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+263,covid-19-pneumonia-22-day1-pa.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+264,1-s2.0-S1684118220300608-main.pdf-002.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+265,covid-19-pneumonia-23-day9.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+266,1-s2.0-S1684118220300682-main.pdf-003-b2.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+267,covid-19-pneumonia-58-day-9.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+268,post-intubuation-pneumomediastium-and-pneumothorax-background-covid-19-pneumonia-day6-2.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+269,7E335538-2F86-424E-A0AB-6397783A38D0.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+270,da9e9aac-de8c-44c7-ba57-e7cc8e4caaba.annot.original.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+271,covid-19-pneumonia-24-day7.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+272,85E52EB3-56E9-4D67-82DA-DEA247C82886.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+273,nejmoa2001191_f1-PA.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+274,16673_2_1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+275,paving.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+276,39EE8E69-5801-48DE-B6E3-BE7D1BCF3092.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+277,kjr-21-e24-g002-l-a.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+278,6C94A287-C059-46A0-8600-AFB95F4727B7.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+279,1312A392-67A3-4EBF-9319-810CF6DA5EF6.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+280,post-intubuation-pneumomediastium-and-pneumothorax-background-covid-19-pneumonia-day1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+281,353889E0-A1E8-4F9E-A0B8-F24F36BCFBFB.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+282,88de9d8c39e946abd495b37cd07d89e5-6531-0.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+283,93FE0BB1-022D-4F24-9727-987A07975FFB.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+284,F4341CE7-73C9-45C6-99C8-8567A5484B63.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+285,jkms-35-e79-g001-l-b.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+286,6CB4EFC6-68FA-4CD5-940C-BEFA8DAFE9A7.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+287,extubation-13.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+288,covid-19-pneumonia-2.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+289,88de9d8c39e946abd495b37cd07d89e5-0666-0.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+290,80446565-E090-4187-A031-9D3CEAA586C8.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+291,1-s2.0-S0929664620300449-gr2_lrg-c.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+292,AR-1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+293,AR-2.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+294,88de9d8c39e946abd495b37cd07d89e5-2ee6-0.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+295,16708_4_1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+296,radiol.2020201160.fig3a.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+297,1.CXRCTThoraximagesofCOVID-19fromSingapore.pdf-003-fig4b.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+298,6b44464d-73a7-4cf3-bbb6-ffe7168300e3.annot.original.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+299,23E99E2E-447C-46E5-8EB2-D35D12473C39.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+300,covid-19-pneumonia-41-day-2.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+301,covid-19-pneumonia-34.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+302,1.CXRCTThoraximagesofCOVID-19fromSingapore.pdf-000-fig1b.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+303,covid-19-pneumonia-58-day-7.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+304,16660_2_1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+305,covid-19-pneumonia-67.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+306,nejmc2001573_f1a.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+307,all14238-fig-0001-m-b.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+308,fff49165-b22d-4bb4-b9d1-d5d62c52436c.annot.original.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+309,covid-19-pneumonia-41-day-0.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+310,covid-19-pneumonia-progression-and-regression-day28.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+311,covid-19-infection-exclusive-gastrointestinal-symptoms-pa.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+312,1-s2.0-S0929664620300449-gr2_lrg-a.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+313,ciaa199.pdf-001-a.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+314,covid-19-pneumonia-8.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+315,covid-19-pneumonia-19.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+316,kjr-21-e24-g001-l-a.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+317,E63574A7-4188-4C8D-8D17-9D67A18A1AFA.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+318,covid-19-pneumonia-35-2.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+319,2-chest-filmc.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+320,16654_4_1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+321,covid-19-pneumonia-mild.JPG,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+322,16669_1_1.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+323,16672_1_1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+324,covid-19-pneumonia-14-PA.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+325,figure1-5e7c1b8d98c29ab001275405-98.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+326,covid-19-pneumonia-progression-and-regression-day6.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+327,covid-19-pneumonia-53.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+328,gr1_lrg-a.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+329,1.CXRCTThoraximagesofCOVID-19fromSingapore.pdf-001-fig2b.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+330,covid-19-pneumonia-20.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+331,figure1-5e73d7ae897e27ff066a30cb-98.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+332,7-fatal-covid19.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+333,16747_2_1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+334,FE9F9A5D-2830-46F9-851B-1FF4534959BE.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+335,covid-19-pneumonia-12.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+336,4ad30bc6-2da0-4f84-bc9b-62acabfd518a.annot.original.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+337,16660_3_1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+338,extubation-4.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+339,1B734A89-A1BF-49A8-A1D3-66FAFA4FAC5D.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+340,figure1-5e71be566aa8714a04de3386-98-left.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+341,kjr-21-e24-g003-l-a.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+342,2C26F453-AF3B-4517-BB9E-802CF2179543.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+343,16745_5_1.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+344,6b3bdbc31f65230b8cdcc3cef5f8ba8a-40ac-0.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+345,extubation-1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+346,E1724330-1866-4581-8CD8-CEC9B8AFEDDE.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+347,covid-19-pneumonia-35-1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+348,jkms-35-e79-g001-l-c.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+349,figure1-5e7c1b8d98c29ab001275405-98-later.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+350,ryct.2020200034.fig5-day4.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+351,covid-19-pneumonia-23-day3.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+352,radiol.2020201160.fig2b.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+353,covid-19-caso-70-1-PA.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+354,16747_3_1.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+355,ae6c954c0039de4b5edee53865ffee43-e6c8-0.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks

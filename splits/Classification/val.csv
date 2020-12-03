@@ -1,0 +1,53 @@
+,filename,image_folder,dataset,condition,Normal,Bacterial Pneumonia,Viral Pneumonia,Tb,mask_folder
+0,JPCNN091.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+1,MCUCXR_0070_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+2,JPCNN002.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+3,JPCNN052.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+4,JPCNN027.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+5,MCUCXR_0056_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+6,JPCNN007.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+7,JPCNN051.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+8,MCUCXR_0097_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+9,MCUCXR_0096_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+10,JPCNN073.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+11,JPCNN015.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+12,MCUCXR_0022_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+13,JPCNN034.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+14,JPCNN020.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+15,16745_6_1.png,Covid-github/images,Github,Normal,1,0,0,0,All masks
+16,MCUCXR_0042_0.png,Montgomery/CXR,NLM(MG),Normal,1,0,0,0,All masks
+17,JPCNN077.PNG,JSRT SCR/JSRT_PNG,JSRT/SCR,Normal,1,0,0,0,All masks
+18,MCUCXR_0309_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+19,MCUCXR_0264_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+20,MCUCXR_0251_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+21,MCUCXR_0367_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+22,MCUCXR_0316_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+23,MCUCXR_0387_1.png,Montgomery/CXR,NLM(MG),Tb,0,0,0,1,All masks
+24,pneumococcal-pneumonia-day35.jpg,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+25,person64_bacteria_317.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+26,pneumocystis-jirovecii-pneumonia-3-1.jpg,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+27,person46_bacteria_225.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+28,right-upper-lobe-pneumonia-9-PA.jpg,Covid-github/images,Github,Bacterial Pneumonia,0,1,0,0,All masks
+29,person291_bacteria_1374.jpeg,Coronahack/CXR,Coronahack,Bacterial Pneumonia,0,1,0,0,All masks
+30,SARS-10.1148rg.242035193-g04mr34g0-Fig8c-day10.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+31,SARS-10.1148rg.242035193-g04mr34g09c-Fig9c-day27.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+32,1.CXRCTThoraximagesofCOVID-19fromSingapore.pdf-001-fig2a.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+33,lancet-case2b.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+34,2966893D-5DDF-4B68-9E2B-4979D5956C8E.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+35,radiol.2020201160.fig3b.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+36,16745_4_1.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+37,radiol.2020201160.fig2d.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+38,ciaa199.pdf-001-b.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+39,F63AB6CE-1968-4154-A70F-913AF154F53D.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+40,nejmc2001573_f1b.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+41,A7E260CE-8A00-4C5F-A7F5-27336527A981.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+42,auntminnie-d-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+43,1.CXRCTThoraximagesofCOVID-19fromSingapore.pdf-002-fig3b.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+44,covid-19-pneumonia-20-pa-on-admission.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+45,auntminnie-b-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+46,1.CXRCTThoraximagesofCOVID-19fromSingapore.pdf-003-fig4a.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+47,41591_2020_819_Fig1_HTML.webp-day10.png,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+48,yxppt-2020-02-19_00-51-27_287214-day8.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+49,covid-19-pneumonia-evolution-over-a-week-1-day0-PA.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+50,covid-19-pneumonia-bilateral.jpg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
+51,radiol.2020201160.fig2c.jpeg,Covid-github/images,Github,Viral Pneumonia,0,0,1,0,All masks
